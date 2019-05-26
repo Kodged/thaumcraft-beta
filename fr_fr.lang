@@ -1172,8 +1172,8 @@ tc.type.observation=Observation
 # BASICS
 ##########################################
 #
-research.Pech.title=The pech
-research.Pech.stage.1=These strange humanoids can be found wherever the veil between worlds is at its thinnest. they seem drawn to the magical energies that abound in such places.<img>thaumcraft:textures/research/research5.png:128:136:108:117:.75</img>don't let their small stature fool you. they have incredible strength and can carry many times their own bodyweight.<br>pech are normally not aggressive, but when riled up they will band together and hunt down their attacker. under normal conditions they avoid people at all costs.<br>pechs are notoriously avaricious, and will loot anything not nailed down, though they prefer precious things. it is said that if you feed this desire for material wealth it could be possible to befriend one.<br>once befriended they often carry wondrous objects that they might be willing to part with.<br>it should be noted that such 'friendships' seldom last long.
+research.Pech.title=Les Pechs
+research.Pech.stage.1=Ces créatures étranges semblent se trouver là où le voile entre les monde est le plus fin. Elles semblent tirer parti des énergies magiques qui débordent en ces lieux. <IMG>thaumcraft:textures/research/research5.png:128:136:108:117:.75</img>don't let their small stature fool you. they have incredible strength and can carry many times their own bodyweight.<br>pech are normally not aggressive, but when riled up they will band together and hunt down their attacker. under normal conditions they avoid people at all costs.<br>pechs are notoriously avaricious, and will loot anything not nailed down, though they prefer precious things. it is said that if you feed this desire for material wealth it could be possible to befriend one.<br>once befriended they often carry wondrous objects that they might be willing to part with.<br>it should be noted that such 'friendships' seldom last long.
 #
 research.Wisp.stage.1=These strange creatures appear to be floating points of light and are often found near high concentrations of vis. honestly i am not sure if they are creatures at all - they move randomly and do not appear to exhibit the normal characteristics of a living organism. they do however react to being attacked and occasionally become aggressive for no apparent reason.<br>my initial thoughts are they might be a form of proto-life made up of vis instead of normal matter, but that cannot be the whole picture as i am detecting strange dimensional energies at their core.
 #
@@ -1393,7 +1393,7 @@ research.POTIONSPRAYER.stage.2=This has been an effort in frustration, but i hav
 # INFUSION
 ##########################################
 #
-research.BASEINFUSION.title=Basic infusion
+research.BASEINFUSION.title=Infusion simple
 research.BASEINFUSION.stage.1=I am now ready to begin crafting enchanted objects and tools.<line>i have drawn up designs for some banners to decorate my lab. i can apply a phial of essentia to them to have them display that essentia symbol.
 #
 research.INFUSION.title=Infusion
